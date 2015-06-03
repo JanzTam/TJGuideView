@@ -17,6 +17,7 @@
 		301CFC501B1E9C3600FBEDFF /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 301CFC4D1B1E9C3600FBEDFF /* 1.jpeg */; };
 		301CFC511B1E9C3600FBEDFF /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 301CFC4E1B1E9C3600FBEDFF /* 2.jpeg */; };
 		301CFC521B1E9C3600FBEDFF /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 301CFC4F1B1E9C3600FBEDFF /* 3.jpeg */; };
+		301CFC861B1EBD2000FBEDFF /* guide.gif in Resources */ = {isa = PBXBuildFile; fileRef = 301CFC851B1EBD2000FBEDFF /* guide.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		301CFC4D1B1E9C3600FBEDFF /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
 		301CFC4E1B1E9C3600FBEDFF /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
 		301CFC4F1B1E9C3600FBEDFF /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpeg; sourceTree = "<group>"; };
+		301CFC851B1EBD2000FBEDFF /* guide.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = guide.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 		301CFC1B1B1E9C2700FBEDFF = {
 			isa = PBXGroup;
 			children = (
+				301CFC851B1EBD2000FBEDFF /* guide.gif */,
 				301CFC4D1B1E9C3600FBEDFF /* 1.jpeg */,
 				301CFC4E1B1E9C3600FBEDFF /* 2.jpeg */,
 				301CFC4F1B1E9C3600FBEDFF /* 3.jpeg */,
@@ -212,6 +215,7 @@
 				301CFC331B1E9C2700FBEDFF /* Main.storyboard in Resources */,
 				301CFC381B1E9C2700FBEDFF /* LaunchScreen.xib in Resources */,
 				301CFC521B1E9C3600FBEDFF /* 3.jpeg in Resources */,
+				301CFC861B1EBD2000FBEDFF /* guide.gif in Resources */,
 				301CFC351B1E9C2700FBEDFF /* Images.xcassets in Resources */,
 				301CFC501B1E9C3600FBEDFF /* 1.jpeg in Resources */,
 			);
@@ -430,6 +434,7 @@
 				301CFC491B1E9C2700FBEDFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		301CFC4A1B1E9C2700FBEDFF /* Build configuration list for PBXNativeTarget "TJGuideViewTests" */ = {
 			isa = XCConfigurationList;
@@ -438,6 +443,7 @@
 				301CFC4C1B1E9C2700FBEDFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
